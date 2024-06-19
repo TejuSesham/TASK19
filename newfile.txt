@@ -6,6 +6,4 @@ Resources needed for cloud formation template
        ImageId ami-07d9b9ddc6cd8dd30
        InstanceType t2.nano
        KeyName free tier
-
-
        vgcs,apac-operations,vu,score,safety,data
