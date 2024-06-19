@@ -1,0 +1,7 @@
+def lambda_handler(event, context):
+    # Your Lambda function logic here
+    message = 'Hello from Lambda!'
+    return {
+        'statusCode': 200,
+        'body': message
+    }
