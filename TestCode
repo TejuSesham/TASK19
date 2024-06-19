@@ -1,7 +1,0 @@
-Resources
-  Ec2Instances
-    Type AWSEC2Instance
-    Properties
-       ImageId ami-07d9b9ddc6cd8dd30
-       InstanceType t2.nano
-       KeyName free tier
